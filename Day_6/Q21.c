@@ -1,6 +1,6 @@
 //Q21. WAP to convert decimal to binary.
 
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
     int n, r, b=0, base=1;
